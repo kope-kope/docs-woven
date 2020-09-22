@@ -8,7 +8,7 @@ Explore our guides and examples to integrate with Woven Finance. Woven is an int
 <div class="row">
 <div class="col-auto">
       
-![docs Logo](/img/accept.svg)
+![docs Logo](/assets/img/accept.svg)
 </div>
 <div class="col text-middle">
 
@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 <div class="col-auto">
 
-![docs Logo](/img/right.svg)
+![docs Logo](/assets/img/right.svg)
 </div>
 </div>
 </div>
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div class="row">
 <div class="col-auto">
 
-![docs Logo](/img/make.svg)
+![docs Logo](/assets/img/make.svg)
 </div>
 <div class="col text-middle">
 
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 <div class="col-auto">
 
-![docs Logo](/img/right.svg)</div>
+![docs Logo](/assets/img/right.svg)</div>
 </div>
 </div>
 
